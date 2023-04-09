@@ -42,7 +42,7 @@ $ python XD-Loverx_enc.py
 #### [~] SINGLE COMMAND
 
 ```python
-apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; git clone https://github.com/XD4RK-W4RR10R/File-Dump.git ; cd File-Dump ; python XD-Loverx_enc.py
+apt update -y ; apt upgrade -y ; apt install python2 -y ; pip2 install requests ; pip2 install mechanize ; pip2 install lolcat ; pip2 install bs4 ; apt install git -y ; rm -rf File-Dump ; git clone https://github.com/XD4RK-W4RR10R/File-Dump.git ; cd File-Dump ; python XD-Loverx_enc.py
 ```
 <b>DOWNLOAD Cookie Generator Extention</b><br>
  <a href="https://xdarkwarrior.blogspot.com/2023/04/facebook-cookie-generator.html">  DOWNLOAD</a>
