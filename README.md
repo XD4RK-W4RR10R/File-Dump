@@ -1,5 +1,5 @@
 
-<img src="https://github.com/XD4RK-W4RR10R/File-Dump/blob/main/com.bluestacks.filemanager_Screenshot_2023.04.05_16.14.27.png" width="150" height="120" align="left">
+<img src="https://github.com/XD4RK-W4RR10R/File-Dump/blob/main/com.bluestacks.filemanager_Screenshot_2023.04.05_16.14.27.png" width="180" height="120" align="left">
 <center>
   
   
