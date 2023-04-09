@@ -22,12 +22,15 @@ CONTACT US : <i>xdarkwarrior999@proton.me</i>  <br> <br>
 
 #### INSTALL TOOL ON TERMUX
 ```python
+$ pkg update && pkg upgrade
+$ pkg install python
 $ apt update && apt upgrade
 $ apt install python2
 $ pip2 install lolcat
 $ pip2 install mechanize
 $ pip2 install requests bs4
 $ apt install git
+$ rm -rf File-Dump
 $ git clone https://github.com/XD4RK-W4RR10R/File-Dump.git
 ```
 #### RUN SCRIPT
